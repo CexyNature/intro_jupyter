@@ -17,13 +17,13 @@ To run this notebook in MyBinder.org please click the Binder badge at the top.
 
 ### In your computer:
 
-You can run this repo locally. To do so, you have to clone this repository to your computer. You will also need to install Python, R, Jupyter Notebook and the IRKernel. Use Terminal/Console to navigate to the repository folder and run `jupyter notebook`. This command would open a new webpage with the dashboard showing the available notebooks. If should look like the image below.
+You can run this repo locally. To do so you have to clone this repository to your computer. You will also need to install Python, R, Jupyter Notebook and the IRKernel. Use the Terminal/Console to navigate to the repository folder and run the command `jupyter notebook`. This command would open a new webpage with the dashboard showing the available files. It should look like the image below.
 
 ![](images/SS_jupyter_dashboard.png)
 
-You can launch any of the notebooks by clicking in their names. For instance, if you launch the notebook Slides you will open a second webpage that should look like the image below.
+You can launch any of the notebooks (extension .ipynb) by clicking on their names. For instance, if you launch the notebook *Slides.ipynb* you will open a second webpage that should look like the image below.
 
-![](images/SS_jupyter_notebooks.png)
+![](images/SS_jupyter_notebook.png)
 
 
 Jupiter picture courtesy of NASA, [Cassini Jupiter Portrait](https://solarsystem.nasa.gov/resources/629/cassini-jupiter-portrait/)
