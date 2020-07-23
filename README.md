@@ -1,7 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CexyNature/intro_jupyter/master)
 [![GitHub Fork: ](https://img.shields.io/github/forks/CexyNature/intro_jupyter?label=Fork&style=social)](https://github.com/CexyNature/intro_jupyter)
-[![GitHub Forks: ](https://img.shields.io/github/forks/CexyNature/intro_jupyter?label=Fork&style=social)](https://github.com/CexyNature/intro_jupyter)
-[![GitHub Start: ](https://img.shields.io/github/forks/CexyNature/intro_jupyter?label=Starts&style=social)](https://github.com/CexyNature/intro_jupyter)
+[![GitHub Start: ](https://img.shields.io/github/stars/CexyNature/intro_jupyter?label=Starts&style=social)](https://github.com/CexyNature/intro_jupyter)
 [![Twitter](https://img.shields.io/twitter/follow/CexyNature?style=social)](https://twitter.com/cexynature?lang=en)
 
 ![](images/Jupiter_NASA_629_PIA04866.jpg)
